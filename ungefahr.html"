@@ -1,0 +1,45 @@
+
+
+<!DOCTYPE html>
+<head><title> Über </title><head>
+  
+  <body>
+    <header>
+      <B> C.S.E.T </B>
+    </header>
+    
+    <hr>
+      <nav>
+        
+        <table cellspacing="5" cellpadding="10">
+          <tr>
+            
+<td><a href="index.html"> Startseite </td>
+<td><a href="ungefähr.html"> Über </td>
+<td><a href=“Zitate.html"> Zitate </td>
+<td><a href="Galerie.html"> Galerie </td>
+<td><a href="Blog.html"> Blog </td>
+            
+          </tr>
+        </table>
+          
+      </nav>  
+    <hr>
+      
+      <h2> Über Mich </h2>
+        
+        <p> I am a university student who has noticed that there is a need for widespread knowledge of the usefulness of mathematics and how one’s quality of life is better with the daily use and application of it, specifically in relation to the understanding and practice of logic theory and the application of theory in sciences such as computer science, biology, and physics. 
+
+I initially created a website around 2016 called MWI which you can find here: https://mworldinspire.wixsite.com/inspire . </p>
+          
+          <p><strong> auf der Suche nach der Wahrheit gemacht </strong></p>
+          
+<hr>
+  
+  <footer>
+    Urheberrecht &copy; MWI 2023
+  </footer>
+  
+    
+      
+  </body>
